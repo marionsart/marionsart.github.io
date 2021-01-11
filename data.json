@@ -1,0 +1,588 @@
+{
+  "main": {
+    "name": "Marion's Art",
+    "place": "Cape Town",
+    "description": "I dream my painting and I paint my dream",
+    "image": "marion.jpeg",
+    "bio": "My late father was a commercial artist back in the day and was a great inspiration to me. I have now retired and am finding the time to explore my talents and pursue various art forms which I am thoroughly enjoying. If life has taught me anything, its to follow your dreams and believe in yourself. My paintings are a combination of emotions and expressions that often take me into another world. I hope you enjoy my artwork as much as I have enjoyed creating it. I also do commissions and prints, so please feel free to contact me. I look forward to sharing my art with you.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "marmelmon3@gmail.com",
+    "phone": "+27 072 653 7637",
+    "facebook": "https://facebook.com/Marions-Art-Cape-Town-827123324310566",
+    "address": {
+      "street": "(Your Street)",
+      "city": "(Your City)",
+      "state": "(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/Marions-Art-Cape-Town-827123324310566",
+        "className": "fa fa-facebook"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Table Mountains",
+        "description": "Cape Town's most iconic landmark, painted to express our rainbow nation.",
+        "sold": false,
+        "image": "table-mountain.jpeg",
+        "canvas": [
+          {
+            "size": "60cm x 90cm",
+            "price": "R2000.00"
+          },
+          {
+            "size": "30cm x 45cm",
+            "price": "R950.00"
+          }
+        ],
+        "extra": [
+          {
+            "text": "Please note commission pieces can never be identically duplicated as they are painted individually."
+          },
+          {
+            "text": "Colours as per your request – Commissions will take 3 weeks to complete."
+          },
+          {
+            "text": "I include various metallic colours in all my paintings."
+          }
+        ]
+      },
+      {
+        "title": "African Queen",
+        "description": "",
+        "sold": false,
+        "image": "african-queen.jpeg",
+        "canvas": [
+          {
+            "size": "60cm x 90cm",
+            "price": "R2000.00"
+          },
+          {
+            "size": "30cm x 45cm",
+            "price": "R950.00"
+          }
+        ],
+        "extra": [
+          {
+            "text": "Please note commission pieces can never be identically duplicated as they are painted individually."
+          },
+          {
+            "text": "Colours as per your request – Commissions will take 3 weeks to complete."
+          },
+          {
+            "text": "I include various metallic colours in all my paintings."
+          }
+        ]
+      },
+      {
+        "title": "Wave",
+        "description": "",
+        "sold": false,
+        "image": "wave.jpeg",
+        "canvas": [
+          {
+            "size": "60cm x 90cm",
+            "price": "R2000.00"
+          },
+          {
+            "size": "Various smaller sizes are available",
+            "price": "Prices to be quoted"
+          }
+        ],
+        "extra": [
+          {
+            "text": "Please note commission pieces can never be identically duplicated as they are painted individually."
+          },
+          {
+            "text": "Colours and background scenery as per your request – Commissions will take 3 weeks to complete."
+          },
+          {
+            "text": "I include various metallic colours in all my paintings."
+          }
+        ]
+      },
+      {
+        "title": "Flower Garden",
+        "description": "",
+        "sold": false,
+        "image": "flower-garden.jpeg",
+        "canvas": [
+          {
+            "size": "60cm x 90cm",
+            "price": "R2000.00"
+          },
+          {
+            "size": "Various smaller sizes are available",
+            "price": "Prices to be quoted"
+          }
+        ],
+        "extra": [
+          {
+            "text": "Please note commission pieces can never be identically duplicated as they are painted individually."
+          },
+          {
+            "text": "Colours as per your request – Commissions will take 3 weeks to complete."
+          },
+          {
+            "text": "I include various metallic colours in all my paintings."
+          }
+        ]
+      },
+      {
+        "title": "Sea Horse",
+        "description": "",
+        "sold": false,
+        "image": "sea-horse.jpeg",
+        "canvas": [
+          {
+            "size": "23cm x 30cm",
+            "price": "R350.00"
+          }
+        ],
+        "extra": [
+          {
+            "text": "Please note commission pieces can never be identically duplicated as they are painted individually."
+          },
+          {
+            "text": "Colours as per your request – Commissions will take 3 weeks to complete."
+          },
+          {
+            "text": "I include various metallic colours in all my paintings."
+          }
+        ]
+      },
+      {
+        "title": "Magical Horse",
+        "description": "",
+        "sold": false,
+        "image": "magical-horse.jpeg",
+        "canvas": [
+          {
+            "size": "30cm x 40cm",
+            "price": "R450.00"
+          }
+        ],
+        "extra": [
+          {
+            "text": "Please note commission pieces can never be identically duplicated as they are painted individually."
+          },
+          {
+            "text": "Colours as per your request – Commissions will take 3 weeks to complete."
+          },
+          {
+            "text": "I include various metallic colours in all my paintings."
+          }
+        ]
+      },
+      {
+        "title": "Whimsical Lace",
+        "description": "Airbrushed creating beautiful lacing effects",
+        "sold": false,
+        "image": "whimsical-lace.jpeg",
+        "canvas": [
+          {
+            "size": "30cm x 45 cm",
+            "price": "R550.00"
+          },
+          {
+            "size": "Various sizes available largest being 60cm x 90cm",
+            "price": "Prices to be quoted"
+          }
+        ],
+        "extra": [
+          {
+            "text": "Please note commission pieces can never be identically duplicated as they are painted individually."
+          },
+          {
+            "text": "Colours as per your request – Commissions will take 3 weeks to complete."
+          },
+          {
+            "text": "I include various metallic colours in all my paintings."
+          }
+        ]
+      },
+      {
+        "title": "Angel of Hope",
+        "description": "",
+        "sold": true,
+        "image": "Angel of Hope.jpg",
+        "canvas": [
+          {
+            "size": "23cm x 30 cm",
+            "price": "R350.00"
+          }
+        ],
+        "extra": []
+      },
+      {
+        "title": "Another Dimension 1",
+        "description": "",
+        "sold": true,
+        "image": "Another Dimension 1.jpg",
+        "canvas": [
+          {
+            "size": "23cm x 30 cm",
+            "price": "R400.00"
+          }
+        ],
+        "extra": []
+      },
+      {
+        "title": "Another Dimension 2",
+        "description": "",
+        "sold": true,
+        "image": "Another Dimension 2.jpg",
+        "canvas": [
+          {
+            "size": "23cm x 30 cm",
+            "price": "R450.00"
+          }
+        ],
+        "extra": []
+      },
+      {
+        "title": "Another Dimension 3",
+        "description": "",
+        "sold": true,
+        "image": "Another Dimension 3.jpg",
+        "canvas": [
+          {
+            "size": "23cm x 30 cm",
+            "price": "R400.00"
+          }
+        ],
+        "extra": []
+      },
+      {
+        "title": "Another Dimension 4",
+        "description": "",
+        "sold": true,
+        "image": "Another Dimension 4.jpg",
+        "canvas": [
+          {
+            "size": "23cm x 30 cm",
+            "price": "R400.00"
+          }
+        ],
+        "extra": []
+      },
+      {
+        "title": "Another Dimension 5",
+        "description": "",
+        "sold": true,
+        "image": "Another Dimension 5.jpg",
+        "canvas": [
+          {
+            "size": "23cm x 30 cm",
+            "price": "R400.00"
+          }
+        ],
+        "extra": []
+      },
+      {
+        "title": "Abstract Explosion of Colours 1",
+        "description": "",
+        "sold": false,
+        "image": "Abstract Explosion of colours 1.jpg",
+        "canvas": [
+          {
+            "size": "30cm x 40 cm",
+            "price": "R400.00"
+          }
+        ],
+        "extra": []
+      },
+      {
+        "title": "Abstract Explosion of Colours 2",
+        "description": "",
+        "sold": true,
+        "image": "Abstract Explosion of colours 2.jpg",
+        "canvas": [
+          {
+            "size": "30cm x 40 cm",
+            "price": "R450.00"
+          }
+        ],
+        "extra": []
+      },
+      {
+        "title": "Abstract Explosion of Colours 3",
+        "description": "",
+        "sold": true,
+        "image": "Abstract Explosion of colours 3.jpg",
+        "canvas": [
+          {
+            "size": "30cm x 40 cm",
+            "price": "R450.00"
+          }
+        ],
+        "extra": []
+      },
+      {
+        "title": "Feather 1",
+        "description": "",
+        "sold": false,
+        "image": "Feather 1.jpg",
+        "canvas": [
+          {
+            "size": "30cm x 30 cm",
+            "price": "R300.00"
+          }
+        ],
+        "extra": []
+      },
+      {
+        "title": "Feather 2",
+        "description": "",
+        "sold": false,
+        "image": "Feather 2.jpg",
+        "canvas": [
+          {
+            "size": "20cm x 40 cm",
+            "price": "R300.00"
+          }
+        ],
+        "extra": []
+      },
+      {
+        "title": "Big 5 + 1 Buffalo",
+        "description": "",
+        "sold": false,
+        "image": "Big 5 + 1 Buffalo.jpg",
+        "canvas": [
+          {
+            "size": "23cm x 30 cm",
+            "price": "R2500.00"
+          }
+        ],
+        "extra": []
+      },
+      {
+        "title": "Big 5 + 1 Elephant",
+        "description": "",
+        "sold": false,
+        "image": "Big 5 + 1 Elephant.jpg",
+        "canvas": [
+          {
+            "size": "23cm x 30 cm",
+            "price": "R2500.00"
+          }
+        ],
+        "extra": []
+      },
+      {
+        "title": "Big 5 + 1 Giraffe",
+        "description": "",
+        "sold": false,
+        "image": "Big 5 + 1 Giraffe.jpg",
+        "canvas": [
+          {
+            "size": "23cm x 30 cm",
+            "price": "R2500.00"
+          }
+        ],
+        "extra": []
+      },
+      {
+        "title": "Big 5 + 1 Leopard",
+        "description": "",
+        "sold": false,
+        "image": "Big 5 + 1 Leopard.jpg",
+        "canvas": [
+          {
+            "size": "23cm x 30 cm",
+            "price": "R2500.00"
+          }
+        ],
+        "extra": []
+      },
+      {
+        "title": "Big 5 + 1 Lion",
+        "description": "",
+        "sold": false,
+        "image": "Big 5 + 1 Lion.jpg",
+        "canvas": [
+          {
+            "size": "23cm x 30 cm",
+            "price": "R2500.00"
+          }
+        ],
+        "extra": []
+      },
+      {
+        "title": "Big 5 + 1 Rhino",
+        "description": "",
+        "sold": false,
+        "image": "Big 5 + 1 Rhino.jpg",
+        "canvas": [
+          {
+            "size": "23cm x 30 cm",
+            "price": "R2500.00"
+          }
+        ],
+        "extra": []
+      },
+      {
+        "title": "Abstract 1",
+        "description": "",
+        "sold": false,
+        "image": "Abstract 1.jpg",
+        "canvas": [
+          {
+            "size": "25cm x 25 cm",
+            "price": "R150.00"
+          }
+        ],
+        "extra": []
+      },
+      {
+        "title": "Abstract 2",
+        "description": "",
+        "sold": false,
+        "image": "Abstract 2.jpg",
+        "canvas": [
+          {
+            "size": "25cm x 25 cm",
+            "price": "R200.00"
+          }
+        ],
+        "extra": []
+      },
+      {
+        "title": "Abstract 3",
+        "description": "",
+        "sold": false,
+        "image": "Abstract 3.jpg",
+        "canvas": [
+          {
+            "size": "30cm x 40 cm",
+            "price": "R400.00"
+          }
+        ],
+        "extra": []
+      },
+      {
+        "title": "Abstract Art on Artist Canvas Panel 1",
+        "description": "",
+        "sold": false,
+        "image": "Abstract Art on Artist Canvas Panel 1.jpg",
+        "canvas": [
+          {
+            "size": "2 x panels – Sizes each 12cm x 18cm",
+            "price": "R100.00"
+          }
+        ],
+        "extra": []
+      },
+      {
+        "title": "Abstract Art on Artist Canvas Panel 2",
+        "description": "",
+        "sold": false,
+        "image": "Abstract Art on Artist Canvas Panel 2.jpg",
+        "canvas": [
+          {
+            "size": "14.5cm x 20.5cm",
+            "price": "R120.00"
+          }
+        ],
+        "extra": []
+      },
+      {
+        "title": "Abstract Art on Artist Canvas Panel 3",
+        "description": "",
+        "sold": false,
+        "image": "Abstract Art on Artist Canvas Panel 3.jpg",
+        "canvas": [
+          {
+            "size": "14.5cm x 20.5cm",
+            "price": "R80.00"
+          }
+        ],
+        "extra": []
+      },
+      {
+        "title": "Looking out",
+        "description": "",
+        "sold": false,
+        "image": "Looking out.jpg",
+        "canvas": [
+          {
+            "size": "23cm x 30cm",
+            "price": "R400.00"
+          }
+        ],
+        "extra": []
+      },
+      {
+        "title": "Metallic Wonder",
+        "description": "",
+        "sold": false,
+        "image": "Metalic Wonder.jpg",
+        "canvas": [
+          {
+            "size": "23cm x 30cm",
+            "price": "R350.00"
+          }
+        ],
+        "extra": []
+      },
+      {
+        "title": "Mystical Horse",
+        "description": "",
+        "sold": false,
+        "image": "Mystical Horse.jpg",
+        "canvas": [
+          {
+            "size": "30cm x 40cm",
+            "price": "R450.00"
+          }
+        ],
+        "extra": []
+      },
+      {
+        "title": "Reflections",
+        "description": "",
+        "sold": false,
+        "image": "Reflections.jpg",
+        "canvas": [
+          {
+            "size": "30cm x 40cm",
+            "price": "R450.00"
+          }
+        ],
+        "extra": []
+      },
+      {
+        "title": "Rising Planet of Fire",
+        "description": "",
+        "sold": false,
+        "image": "Rising Planet of Fire.jpg",
+        "canvas": [
+          {
+            "size": "30cm x 40cm",
+            "price": "R450.00"
+          }
+        ],
+        "extra": []
+      },
+      {
+        "title": "Waterfall",
+        "description": "",
+        "sold": false,
+        "image": "Waterfall.jpg",
+        "canvas": [
+          {
+            "size": "40cm x 40cm",
+            "price": "R550.00"
+          }
+        ],
+        "extra": []
+      }
+    ]
+  }
+}
