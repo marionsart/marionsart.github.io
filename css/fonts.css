@@ -138,6 +138,36 @@
     font-style: normal;
 }
 
+/*
+ * Sofia
+================================================================================ */ 
+@font-face{
+    font-family: 'sofia-regular';
+    src: url('fonts/Sofia/Sofia-Regular.ttf') format('truetype');
+}
+
+/*
+ * Pacifico
+================================================================================ */ 
+@font-face{
+    font-family: 'pacifico';
+    src: url('fonts/Pacifico/Pacifico-Regular.ttf') format('truetype');
+}
+/*
+ * Dancing script
+================================================================================ */ 
+@font-face{
+    font-family: 'dancing-script';
+    src: url('fonts/Dancing_Script/DancingScript-VariableFont_wght.ttf') format('truetype');
+}
+
+/*
+ * Leckerli One
+================================================================================ */ 
+@font-face{
+    font-family: 'leckerli-one';
+    src: url('fonts/Leckerli_One/LeckerliOne-Regular.ttf') format('truetype');
+}
 
 /*
  * FIXED for Font-Face Chrome Rendering

@@ -26,7 +26,7 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Table Mountains",
+        "title": "Table Mountain",
         "description": "Cape Town's most iconic landmark, painted to express our rainbow nation.",
         "sold": false,
         "image": "table-mountain.jpeg",
@@ -357,7 +357,7 @@
         "canvas": [
           {
             "size": "23cm x 30 cm",
-            "price": "R2500.00"
+            "price": "R2500.00 (Set of 6)"
           }
         ],
         "extra": []
@@ -370,7 +370,7 @@
         "canvas": [
           {
             "size": "23cm x 30 cm",
-            "price": "R2500.00"
+            "price": "R2500.00 (Set of 6)"
           }
         ],
         "extra": []
@@ -383,7 +383,7 @@
         "canvas": [
           {
             "size": "23cm x 30 cm",
-            "price": "R2500.00"
+            "price": "R2500.00 (Set of 6)"
           }
         ],
         "extra": []
@@ -396,7 +396,7 @@
         "canvas": [
           {
             "size": "23cm x 30 cm",
-            "price": "R2500.00"
+            "price": "R2500.00 (Set of 6)"
           }
         ],
         "extra": []
@@ -409,7 +409,7 @@
         "canvas": [
           {
             "size": "23cm x 30 cm",
-            "price": "R2500.00"
+            "price": "R2500.00 (Set of 6)"
           }
         ],
         "extra": []
@@ -422,7 +422,7 @@
         "canvas": [
           {
             "size": "23cm x 30 cm",
-            "price": "R2500.00"
+            "price": "R2500.00 (Set of 6)"
           }
         ],
         "extra": []

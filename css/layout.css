@@ -69,7 +69,7 @@ header .banner-text h2 {
   color: #ccc;
 }
 header .banner-text h3 {
-  font: 18px/1.9em "librebaskerville-regular", serif;
+  font: 18px/1.9em "leckerli-one", serif;
   color: #ddd;
   margin: 0 auto;
   width: 70%;
@@ -656,7 +656,7 @@ ul#nav li.current a {
   margin: auto;
 }
 
-.sold-txt{
+.sold-txt {
   margin: auto;
   color: #ff0000;
 }
