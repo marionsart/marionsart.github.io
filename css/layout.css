@@ -60,16 +60,17 @@ header .banner-text {
   width: 100%;
 }
 header .banner-text h1 {
-  font: 90px/1.1em "leckerli-one", sans-serif;
+  font: 90px/1.1em "dancing-script", sans-serif;
   color: #fff;
   letter-spacing: -2px;
   margin: 0 auto 18px auto;
 }
 header .banner-text h2 {
+  font: 34px/1.1em "dancing-script", serif;
   color: #ccc;
 }
 header .banner-text h3 {
-  font: 18px/1.9em "leckerli-one", serif;
+  font: 24px/1.9em "leckerli-one", serif;
   color: #ddd;
   margin: 0 auto;
   width: 70%;
