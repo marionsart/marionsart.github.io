@@ -60,17 +60,16 @@ header .banner-text {
   width: 100%;
 }
 header .banner-text h1 {
-  font: 90px/1.1em "dancing-script", sans-serif;
+  font: 90px/1.1em "opensans-bold", sans-serif;
   color: #fff;
   letter-spacing: -2px;
   margin: 0 auto 18px auto;
 }
 header .banner-text h2 {
-  font: 45px/1.1em "dancing-script", serif;
   color: #ccc;
 }
 header .banner-text h3 {
-  font: 24px/1.9em "leckerli-one", serif;
+  font: 18px/1.9em "leckerli-one", serif;
   color: #ddd;
   margin: 0 auto;
   width: 70%;
@@ -256,6 +255,7 @@ ul#nav li.current a {
   margin-right: 15px;
   font-size: 20px;
 }
+
 /* ------------------------------------------------------------------ */
 /* d. Resume Section
 /* ------------------------------------------------------------------ */

@@ -157,7 +157,7 @@
         ]
       },
       {
-        "title": "Mystical Horse",
+        "title": "Magical Horse",
         "description": "",
         "sold": false,
         "image": "magical-horse.jpeg",
@@ -430,7 +430,7 @@
       {
         "title": "Abstract 1",
         "description": "",
-        "sold": false,
+        "sold": true,
         "image": "Abstract 1.jpg",
         "canvas": [
           {
